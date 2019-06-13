@@ -1,0 +1,116 @@
+/*
+dark primary color: #212121;
+primary color: #212121;
+accent color: #FFFFFF;
+text: #212121;
+hover text: #212121;
+*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-size: 24px;
+}
+
+h1{
+background-color:#212121;
+color: #FFFFFF;
+padding: 40px 150px;
+font-size: 96px;
+font-weight: 300;
+}
+
+
+
+h2{
+    margin: 40px 0px;
+    font-size: 36px;
+    font-weight: 400px;
+}
+
+
+section p {
+    line-height: 150%;
+     margin: 40px 0px;
+     max-width: 754px;
+    text-align: justify;
+}
+
+
+
+header {
+    text-transform: uppercase;
+}
+
+
+a {
+    color: #212121
+}
+
+
+
+
+
+section {
+    margin-left: 150px;
+}
+
+
+section ul{
+  margin-left: 50px;  
+}
+
+
+
+nav {
+    background-color: #212121;
+}
+
+a {
+    color: #FFFFFF;
+    font-size: 20px;
+    border: 3px solid black;
+    background-color: #212121;
+    padding: 10px;
+    margin: 100px;
+}
+
+    a {
+        color: #212121;
+    }
+
+
+    nav a:hover {
+        color: #212121;
+    } 
+
+img{
+   margin-top: 40px; 
+}
+
+
+
+nav ol {
+    list-style: none;
+}
+
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+nav a: hover {
+       color: #212121;
+}
+
+
+footer {
+  background-color: #212121;
+    color: #FFFFFF;
+    padding: 40px 150px;
+    margin-top: 40px;
+}
+
+
